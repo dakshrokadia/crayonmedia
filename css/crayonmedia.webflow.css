@@ -3048,7 +3048,7 @@ h4 {
   display: flex;
 }
 
-.body-2 {
+.body-contact-page {
   background-color: var(--color-light);
 }
 
@@ -3193,6 +3193,10 @@ h4 {
   flex-direction: column;
   align-items: stretch;
   display: flex;
+}
+
+.body-uc-page {
+  background-color: var(--color-light);
 }
 
 @media screen and (min-width: 1440px) {
@@ -3459,7 +3463,7 @@ h4 {
     background-color: var(--color-red);
   }
 
-  .body-3, .body-4 {
+  .body-password-page, .body-404 {
     background-color: var(--color-light);
   }
 }
